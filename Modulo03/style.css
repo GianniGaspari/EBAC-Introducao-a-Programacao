@@ -4,10 +4,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&display=swap'); 
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 body {
-    background: url(Files/1646225991933.jpg);
+    background: url(Files/imagebackground02.png);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
-    color: rgb(184, 190, 207);
+    color: rgb(199, 205, 223);
 }
 h1 {
     font-family: 'Press Start 2P', cursive;
@@ -45,7 +45,7 @@ h3 {
     width: 750px;
     padding: 10px;
     margin: auto;
-    color: #98dfe0ea;
+    color: #c2eaebea;
 }
 h4 {
     font-family: 'Press Start 2P', cursive;
@@ -72,8 +72,8 @@ h5 {
     margin: left;
 }
 li {
-    font-family: 'Press Start 2P', cursive;
-    font-size: 0.9em;
+    font-family: 'Amatic', cursive;
+    font-size: 1.3em;
     text-shadow: 1px 1px 2px #0281b8ce;
     color: #b3d8e7;
 }
