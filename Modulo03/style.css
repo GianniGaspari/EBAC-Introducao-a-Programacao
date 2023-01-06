@@ -7,23 +7,73 @@ body {
     background: url(Files/1646225991933.jpg);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 1em;
-    color: rgb(196, 204, 228);
+    color: rgb(184, 190, 207);
 }
 h1 {
     font-family: 'Press Start 2P', cursive;
     font-size: 2.5em;
     border-radius: 10px;
-    box-shadow: 10px 10px 10px #f0e7e7d3; 
+    box-shadow: 6px 6px 6px #f0e7e7d3; 
     text-shadow: 1px 1px 2px #001118ce;
     font-style: bold;
     text-decoration: underline #f1fcff93;
     width: 1000px;
     padding: 15px;
     margin: auto;
-    color: #9aa7a7;
+    color: #DEEFE7;
 }
 h2 {
     font-family: 'Press Start 2P', cursive;
-    font-size: 2em;
+    font-size: 2em; 
+    text-shadow: 3px 3px 3px #0683b94d;
+    border-radius: 10px;
+    box-shadow: 9px 9px 9px #fcf4f4d3; 
+    font-style: bold;
+    text-decoration: underline #f1fcff93;
+    width: 290px;
+    padding: 15px;
+    margin: auto;
+    color: #b8cec4;
 }
-       
+h3 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1.7em; 
+    text-shadow: 3px 3px 3px #6ed3ff4d;
+    border-radius: 10px; 
+    font-style: bold;
+    text-decoration: underline #f1fcff93;
+    width: 750px;
+    padding: 10px;
+    margin: auto;
+    color: #98dfe0ea;
+}
+h4 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1em; 
+    text-shadow: 3px 3px 3px #0683b94d;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #f0e7e7d3; 
+    font-style: bold;
+    text-decoration: underline #f1fcff93;
+    width: 290px;
+    padding: 15px;
+    margin: left;
+}
+h5 {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1em; 
+    text-shadow: 3px 3px 3px #0683b94d;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px #f0e7e7d3; 
+    font-style: bold;
+    text-decoration: underline #f1fcff93;
+    width: 560px;
+    padding: 15px;
+    margin: left;
+}
+li {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 0.9em;
+    text-shadow: 1px 1px 2px #0281b8ce;
+    color: #b3d8e7;
+}
